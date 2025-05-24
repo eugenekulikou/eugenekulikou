@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 
 👋 An experienced, detailed-oriented, **frontend / fullstack web developer** ready to drive all phases of modern web development for a consumer-facing web application.
 
-Currently: Frontend Developer @ [Claivo](https://www.claivo.com/)\
-Previously: Frontend Developer @ [WorkForImpact](https://www.workforimpact.com/)
 
